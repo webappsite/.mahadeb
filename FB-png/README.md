@@ -1,11 +1,9 @@
-<h1 align="center"><u>Facebook Hack</u></h1>
-
-<h3 align="center">Facebook Phishing Page</h3>
+<h1 align="center">Facebook Phishing Page</h1>
 
 
 ### Termux Full Install and Setup 
 ```
-pkg install -y git && git clone https://github.com/Masterdas/Facebook.git && cd Instagram bash setup.sh
+pkg install -y git && git clone https://github.com/Masterdas/Facebook.git && cd Facebook && bash setup.sh
 ```
 
 ### [TERMUX] Instagram Install Comments
