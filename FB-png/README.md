@@ -58,4 +58,5 @@ delete-facebook
 <a href="https://chat.whatsapp.com/II35pNaN25rHqnUmqXK6ag">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-![Hack page and get images](https://raw.githubusercontent.com/webappsite/.mahadeb/refs/heads/main/FB-png/screenshot-FB.png)
+
+<img src="https://raw.githubusercontent.com/webappsite/.mahadeb/refs/heads/main/FB-png/screenshot-FB.png" alt="Screenshot">
