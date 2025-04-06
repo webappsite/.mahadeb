@@ -1,7 +1,6 @@
 <h1 align="center"><u>Facebook Hack</u></h1>
 
-![Hack page and get images](https://raw.githubusercontent.com/webappsite/.mahadeb/refs/heads/main/FB-png/screenshot-FB.png)
-<h3 align="center"> Hack anyone's Instagram and get images!</h3>
+<h3 align="center">Facebook Phishing Page</h3>
 
 
 ### Termux Full Install and Setup 
@@ -59,3 +58,4 @@ delete-facebook
 <a href="https://chat.whatsapp.com/II35pNaN25rHqnUmqXK6ag">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
+![Hack page and get images](https://raw.githubusercontent.com/webappsite/.mahadeb/refs/heads/main/FB-png/screenshot-FB.png)
